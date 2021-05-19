@@ -4,6 +4,8 @@
 [General]
 
 [Rule]
+#网易云
+USER-AGENT,NeteaseMusic*,网易云
 # > 京东  去启动广告
 URL-REGEX,^https?:\/\/api\.m\.jd\.com\/client\.action\?functionId=start$,REJECT-TINYGIF
 [URL Rewrite] 
@@ -45,4 +47,4 @@ XMind.js = requires-body=1,max-size=0,script-path=https://raw.githubusercontent.
 http-request ^https://[\s\S]*\.googlevideo\.com/.*&(oad|ctier) script-path=https://Choler.github.io/Surge/Script/YouTube.js
 
 [MITM]
-hostname = %APPEND% api.m.jd.com, *.amemv.com, aweme*.snssdk.com, api.weibo.cn, mapi.weibo.com, *.uve.weibo.com, mp.weixin.qq.com, r.inews.qq.com, *.kuwo.cn, vip1.kuwo.cn, ap*.intsig.net, ap*.intsig.net, api.vuevideo.net, api.ithome.com, www.xmind.cn, *.googlevideo.com
+hostname = %APPEND% api.m.jd.com, *.amemv.com, aweme*.snssdk.com, api.weibo.cn, mapi.weibo.com, *.uve.weibo.com, mp.weixin.qq.com, r.inews.qq.com, *.kuwo.cn, vip1.kuwo.cn, ap*.intsig.net, ap*.intsig.net, api.vuevideo.net, api.ithome.com, www.xmind.cn, *.googlevideo.com, music.163.com,*.music.163.com
