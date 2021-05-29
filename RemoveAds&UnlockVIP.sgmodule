@@ -41,10 +41,8 @@ ITHome.js = requires-body=1,max-size=0,script-path=https://raw.githubusercontent
 ITHome.js = requires-body=1,max-size=0,script-path=https://raw.githubusercontent.com/nzw9314/QuantumultX/master/Script/ITHome.js,type=http-response,pattern=^https?:\/\/api\.ithome\.com\/json\/(newslist|listpage)\/news
 # > XMind思维导图
 XMind.js = requires-body=1,max-size=0,script-path=https://raw.githubusercontent.com/nzw9314/QuantumultX/master/Script/XMind.js,type=http-response,pattern=https:\/\/www\.xmind\.cn\/\_res\/devices
-# > YouTube去片头广告
-http-request ^https://[\s\S]*\.googlevideo\.com/.*&(oad|ctier) script-path=https://Choler.github.io/Surge/Script/YouTube.js
 # > 京东签到Cookie
 京东签到Cookie = type=http-request,pattern=https:\/\/api\.m\.jd\.com\/client\.action.*functionId=signBean,script-path=https://raw.githubusercontent.com/NobyDa/Script/master/JD-DailyBonus/JD_DailyBonus.js
 
 [MITM]
-hostname = %APPEND% api.m.jd.com, *.amemv.com, aweme*.snssdk.com, api.weibo.cn, mapi.weibo.com, *.uve.weibo.com, mp.weixin.qq.com, *.kuwo.cn, vip1.kuwo.cn, ap*.intsig.net, ap*.intsig.net, api.vuevideo.net, api.ithome.com, www.xmind.cn, *.googlevideo.com, music.163.com,*.music.163.com
+hostname = %APPEND% api.m.jd.com, *.amemv.com, aweme*.snssdk.com, api.weibo.cn, mapi.weibo.com, *.uve.weibo.com, mp.weixin.qq.com, *.kuwo.cn, vip1.kuwo.cn, ap*.intsig.net, ap*.intsig.net, api.vuevideo.net, api.ithome.com, www.xmind.cn, music.163.com,*.music.163.com
