@@ -1,7 +1,4 @@
 # (DNS Cache Pollution)
-# > LinkedIn
-DOMAIN-SUFFIX,linkedin.com
-DOMAIN-SUFFIX,licdn.com
 # > Amazon
 DOMAIN-SUFFIX,amazon.co.jp
 DOMAIN,d3c33hcgiwev3.cloudfront.net
