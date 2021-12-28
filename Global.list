@@ -90,14 +90,6 @@ IP-CIDR,103.2.30.0/23,no-resolve
 IP-CIDR,125.209.208.0/20,no-resolve
 IP-CIDR,147.92.128.0/17,no-resolve
 IP-CIDR,203.104.144.0/21,no-resolve
-# > Microsoft
-DOMAIN-SUFFIX,aka.ms
-DOMAIN-SUFFIX,onedrive.live.com
-DOMAIN-SUFFIX,streaming.mediaservices.windows.net
-DOMAIN,assets1.xboxlive.com
-DOMAIN,assets2.xboxlive.com
-DOMAIN,az416426.vo.msecnd.net
-DOMAIN,az668014.vo.msecnd.net
 # > The New York Times
 DOMAIN-SUFFIX,nyt.com
 DOMAIN-SUFFIX,nytchina.com
