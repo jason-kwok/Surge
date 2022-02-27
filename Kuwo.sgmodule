@@ -1,0 +1,9 @@
+#!name=酷我音乐破解VIP
+#!desc=酷我音乐破解VIP
+#!system=macOS & iOS
+
+[Script]
+Kuwo.js = requires-body=1,max-size=0,script-path=https://raw.githubusercontent.com/NobyDa/Script/master/Surge/JS/Kuwo.js,type=http-response,pattern=^https?:\/\/vip1\.kuwo\.cn\/(vip\/v2\/user\/vip|vip\/spi/mservice)
+
+[MITM]
+hostname = %APPEND% *.kuwo.cn, vip1.kuwo.cn
