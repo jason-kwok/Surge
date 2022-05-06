@@ -1,6 +1,6 @@
 # China Area Network
 # > 星空影视
-DOMAIN-SUFFIX,xkys123.com,DIRECT
+DOMAIN,xkys123.com:443,DIRECT
 DOMAIN-SUFFIX,umeng.com,DIRECT
 # > 360
 DOMAIN-SUFFIX,qhres.com,DIRECT
