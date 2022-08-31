@@ -14,3 +14,5 @@ DOMAIN-SUFFIX,akamaihd.net
 DOMAIN-SUFFIX,iina.io
 # HK01
 DOMAIN-SUFFIX,hk01.com
+# GEO
+DOMAIN-SUFFIX,.hk
