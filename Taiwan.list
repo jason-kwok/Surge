@@ -1,5 +1,3 @@
 # GEO
 GEOIP,TW
-# Yahoo
-DOMAIN-SUFFIX,yahoo.com
-DOMAIN-SUFFIX,flurry.com
+
