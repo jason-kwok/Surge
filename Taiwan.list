@@ -1,6 +1,5 @@
 # Yahoo
 DOMAIN-SUFFIX,flurry.com
-# TW
-DOMAIN-KEYWORD,tw
+DOMAIN-SUFFIX,yahoo,com
 # GEO
 GEOIP,TW
