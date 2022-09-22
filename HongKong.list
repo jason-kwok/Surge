@@ -2,7 +2,10 @@
 DOMAIN,198.16.64.10
 DOMAIN,media.fantv.hk
 DOMAIN,cdn.hklive.tv
+DOMAIN-SUFFIX,hkanime.com
 DOMAIN-SUFFIX,hkanime.com.hk
+DOMAIN-SUFFIX,hkanime.club
+DOMAIN-SUFFIX,hkdtmb.com
 DOMAIN-SUFFIX,cbox.ws
 DOMAIN,livetv.dnsfor.me
 DOMAIN-SUFFIX,mudvod1.tv
