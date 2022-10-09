@@ -16,7 +16,14 @@ DOMAIN-SUFFIX,plausible.io
 DOMAIN-SUFFIX,xkys123.com
 DOMAIN-SUFFIX,xkys.tv
 DOMAIN-SUFFIX,akamaihd.net
+# 大师兄影视
 DOMAIN-KEYWORD,dsxys
+# 星火电视
+DOMAIN-SUFFIX,xinghuo.app
+DOMAIN-SUFFIX,xhzb.tw
+DOMAIN-SUFFIX,tawk.to
+DOMAIN-SUFFIX,criteo.net
+DOMAIN-SUFFIX,criteo.com
 # IINA
 DOMAIN-SUFFIX,iina.io
 # HK01
