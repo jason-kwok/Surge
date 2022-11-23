@@ -1,6 +1,8 @@
-# 影视App
+# 影视
 DOMAIN-SUFFIX,everydaytv.top
+# 地上波转播
 DOMAIN-SUFFIX,hklive.tv
+DOMAIN-SUFFIX,cbox.ws
 # IINA
 DOMAIN-SUFFIX,iina.io
 # HK01
