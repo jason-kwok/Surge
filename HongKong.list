@@ -1,31 +1,5 @@
 # 影视App
 DOMAIN-SUFFIX,everydaytv.top
-DOMAIN,198.16.64.10
-DOMAIN,media.fantv.hk
-DOMAIN,cdn.hklive.tv
-DOMAIN-SUFFIX,hklive.tv
-DOMAIN-SUFFIX,hkanime.com
-DOMAIN-SUFFIX,hkanime.com.hk
-DOMAIN-SUFFIX,hkanime.club
-DOMAIN-SUFFIX,hkdtmb.com
-DOMAIN-SUFFIX,cbox.ws
-DOMAIN,livetv.dnsfor.me
-DOMAIN-SUFFIX,mudvod1.tv
-DOMAIN-SUFFIX,nbyy.tv
-DOMAIN-SUFFIX,if101.tv
-DOMAIN-SUFFIX,clarity.ms
-DOMAIN-SUFFIX,plausible.io
-DOMAIN-SUFFIX,xkys123.com
-DOMAIN-SUFFIX,xkys.tv
-DOMAIN-SUFFIX,akamaihd.net
-# 大师兄影视
-DOMAIN-KEYWORD,dsxys
-# 星火电视
-DOMAIN-SUFFIX,xinghuo.app
-DOMAIN-SUFFIX,xhzb.tw
-DOMAIN-SUFFIX,tawk.to
-DOMAIN-SUFFIX,criteo.net
-DOMAIN-SUFFIX,criteo.com
 # IINA
 DOMAIN-SUFFIX,iina.io
 # HK01
