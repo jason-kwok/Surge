@@ -3,10 +3,6 @@ DOMAIN-SUFFIX,everydaytv.top
 # 地上波转播
 DOMAIN-SUFFIX,hklive.tv
 DOMAIN-SUFFIX,cbox.ws
-# 泥视频
-DOMAIN-SUFFIX,nivod.tv
-DOMAIN-SUFFIX,plausible.io
-DOMAIN-SUFFIX,api.mudvod.tv
 # IINA
 DOMAIN-SUFFIX,iina.io
 # HK01
