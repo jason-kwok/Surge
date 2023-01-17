@@ -1,5 +1,7 @@
 # Yahoo
 DOMAIN-SUFFIX,flurry.com
 DOMAIN,video.media.yql.yahoo.com
+# Taiwan
+DOMAIN-SUFFIX,tw
 # GEO
 GEOIP,TW
