@@ -11,5 +11,7 @@ DOMAIN-SUFFIX,iina.io
 DOMAIN-SUFFIX,hk01.com
 # AirAsia
 DOMAIN-SUFFIX,airasia.com
+# Internet Archive
+DOMAIN-SUFFIX,archive.org
 # GEO
 GEOIP,HK
