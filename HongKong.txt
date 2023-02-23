@@ -1,0 +1,17 @@
+# 影视
+everydaytv.top
+# 地上波转播
+hklive.tv
+cbox.ws
+hkdtmb.com
+hkdtmb.com
+# IINA
+iina.io
+# HK01
+hk01.com
+# AirAsia
+airasia.com
+# Internet Archive
+archive.org
+# GEO
+GEOIP,HK
