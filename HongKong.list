@@ -9,7 +9,5 @@ DOMAIN,www.hkdtmb.com
 DOMAIN-SUFFIX,iina.io
 # HK01
 DOMAIN-SUFFIX,hk01.com
-# AirAsia
-DOMAIN-SUFFIX,airasia.com
 # GEO
 GEOIP,HK
