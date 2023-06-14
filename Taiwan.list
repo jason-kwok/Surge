@@ -1,6 +1,12 @@
 # Yahoo
 DOMAIN-SUFFIX,flurry.com
 DOMAIN,video.media.yql.yahoo.com
+# 直播
+IP-CIDR,220.134.196.147/32
+IP-CIDR,38.64.72.148/32
+DOMAIN-suffix,btsw-ott2b.cdn.hinet.net
+DOMAIN-suffix,cdn257.ccdntech.com
+DOMAIN-suffix,modfree-hamivideo.cdn.hinet.net
 # Taiwan
 DOMAIN-SUFFIX,tw
 # GEO
