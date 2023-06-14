@@ -1,7 +1,7 @@
 # 影视
 DOMAIN-SUFFIX,everydaytv.top
 # 直播
-DOMAIN-keyword,epg
+DOMAIN-KEYWORD,epg
 DOMAIN,stream01.willfonk.com
 DOMAIN-SUFFIX,hklive.tv
 DOMAIN-SUFFIX,cbox.ws
